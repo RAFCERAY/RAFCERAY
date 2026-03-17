@@ -2,8 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Rafika%20Ayari&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Data%20Analyst%20%7C%20Finance%20%26%20Sustainable%20Finance&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton_email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton_profil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafika.cervera@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ton_profil](https://www.linkedin.com/in/rafikacervera/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAFCERAY)
 
 </div>
