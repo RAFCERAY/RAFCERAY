@@ -58,6 +58,8 @@ Chatbot financier pour l'automatisation de rapports bancaires — NLP appliqué 
 | 📉 **Churn Client** | Prédiction de l'attrition client · segmentation et modèle de rétention | Python · Scikit-learn |
 | 💬 **Chatbot Financier** | Automatisation de rapports bancaires · NLP appliqué à la banque | Python · NLP |
 | 🏢 **Conext** | Réseau social professionnel interne · plateforme intra-groupe type LinkedIn | Python · FastAPI · JWT · Streamlit |
+| 📱 **Social Media Analytics** | Dashboard NLP & ML · analyse des mentions mode durable · 4 plateformes | Python · Streamlit · Scikit-learn · NLP |
+
 ---
 
 ### GitHub Stats
