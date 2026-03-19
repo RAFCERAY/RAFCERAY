@@ -57,7 +57,7 @@ Chatbot financier pour l'automatisation de rapports bancaires — NLP appliqué 
 | 💳 **Scoring Crédit** | Modèle prédictif pour l'octroi de crédit · classification du risque de défaut | Python · ML · pandas |
 | 📉 **Churn Client** | Prédiction de l'attrition client · segmentation et modèle de rétention | Python · Scikit-learn |
 | 💬 **Chatbot Financier** | Automatisation de rapports bancaires · NLP appliqué à la banque | Python · NLP |
-
+| 🏢 **Conext** | Réseau social professionnel interne · plateforme intra-groupe type LinkedIn | Python · FastAPI · JWT · Streamlit |
 ---
 
 ### GitHub Stats
@@ -67,7 +67,6 @@ Chatbot financier pour l'automatisation de rapports bancaires — NLP appliqué 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAFCERAY&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAFCERAY&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6)
-| 🏢 **Conext** | Réseau social professionnel interne · plateforme intra-groupe type LinkedIn | Python · FastAPI · JWT · Streamlit |
 
 </div>
 
