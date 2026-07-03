@@ -1,8 +1,8 @@
 <div align="center">
 
-# Rafika Ayari Cervera
+# Rafika Cervera
 
-**Data Analyst · Sustainable Finance · Machine Learning**
+**Data & AI Professional · Sustainable Finance**
 
 Turning complex data into actionable insights — with a focus on sustainable finance, credit risk, and AI applied to banking.
 
@@ -61,7 +61,7 @@ Turning complex data into actionable insights — with a focus on sustainable fi
 
 <br>
 
-**Data Analyst · Finance durable · Machine Learning**
+**Professionnelle Data & IA · Finance durable**
 
 Je transforme des données complexes en insights actionnables — avec un focus sur la **finance durable**, le **risque de crédit** et l'**IA appliquée à la banque**.
 
