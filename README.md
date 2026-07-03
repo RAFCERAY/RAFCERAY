@@ -1,81 +1,80 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Rafika%20Ayari&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Data%20Analyst%20%7C%20Finance%20%26%20Sustainable%20Finance&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn)
+# Rafika Ayari Cervera
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafika.cervera@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafikacervera/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAFCERAY)
+**Data Analyst · Sustainable Finance · Machine Learning**
 
-</div>
+Turning complex data into actionable insights — with a focus on sustainable finance, credit risk, and AI applied to banking.
 
----
-
-Je transforme des données complexes en insights actionnables — avec un focus sur la **finance durable**, le **risque de crédit** et l'**intelligence artificielle appliquée à la banque**.
-
----
-
-### Ce que je construis
-
-**📊 Dashboards & Visualisation**
-Tableaux de bord interactifs avec Python et Streamlit — collecte de données via APIs publiques, bases SQL centralisées, storytelling avec les données.
-
-**🤖 Machine Learning Finance**
-Modèles de scoring crédit, détection de churn client, classification binaire appliquée aux cas d'usage bancaires réels.
-
-**💬 IA & Automatisation**
-Chatbot financier pour l'automatisation de rapports bancaires — NLP appliqué à la finance.
-
----
-
-### Stack technique
-
-#### Langages & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-#### Visualisation & Apps
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-#### Outils
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-### Projets phares
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 🌿 **GreenFinance Dashboard** | Dashboard interactif sur la finance durable en Europe · données Banque mondiale & green bonds | Python · SQL · Streamlit |
-| 💳 **Scoring Crédit** | Modèle prédictif pour l'octroi de crédit · classification du risque de défaut | Python · ML · pandas |
-| 📉 **Churn Client** | Prédiction de l'attrition client · segmentation et modèle de rétention | Python · Scikit-learn |
-| 💬 **Chatbot Financier** | Automatisation de rapports bancaires · NLP appliqué à la banque | Python · NLP |
-| 🏢 **Conext** | Réseau social professionnel interne · plateforme intra-groupe type LinkedIn | Python · FastAPI · JWT · Streamlit |
-| 📱 **Social Media Analytics** | Dashboard NLP & ML · analyse des mentions mode durable · 4 plateformes | Python · Streamlit · Scikit-learn · NLP |
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAFCERAY&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAFCERAY&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafikacervera/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafika.cervera@gmail.com)
+[![Location](https://img.shields.io/badge/France-lightgrey?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
+## Featured Projects
+
+| Project | Description | Stack | Live Demo |
+|---|---|---|---|
+| [**GreenFinance Dashboard**](https://github.com/RAFCERAY/greenfinance-dashboard) | Interactive dashboard on sustainable finance in Europe — World Bank data & green bonds | Python · SQL · Streamlit | — |
+| [**Credit Scoring**](https://github.com/RAFCERAY/credit-scoring) | Predictive model for loan approval — default risk classification (AUC 0.86) | Python · Scikit-learn | [▶ App](https://rafceray-credit-scoring-app.streamlit.app) |
+| [**Customer Churn**](https://github.com/RAFCERAY/churn-botanic) | Churn prediction on 7.4M retail transactions — SMOTE, RFE, logistic regression | Python · Scikit-learn | [▶ App](https://rafceray-churn-botanic-app.streamlit.app) |
+| [**Financial Chatbot**](https://github.com/RAFCERAY/chatbot-financier) | Gen AI assistant for OTC derivatives analysis — Société Générale Datathon 2024 | Python · NLP · Gen AI | [▶ App](https://rafceray-chatbot-financier-src-app.streamlit.app) |
+| [**Social Media Analytics**](https://github.com/RAFCERAY/social-media-analytics) | NLP & ML dashboard — 100K sustainable-fashion mentions across 4 platforms | Python · NLP · Streamlit | [▶ App](https://rafceray-social-media-analytics-05-dashboard.streamlit.app) |
+
+## What I Build
+
+**Dashboards & Data Apps** — interactive Streamlit dashboards fed by public APIs and centralized SQL databases, with a focus on data storytelling.
+
+**Machine Learning for Finance** — credit scoring, churn prediction, and binary classification applied to real banking use cases, with interpretability as a first-class requirement.
+
+**AI & Automation** — NLP and Gen AI applied to banking: automated financial reporting and conversational assistants.
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## GitHub Stats
+
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer)
+<img src="https://github-readme-stats.vercel.app/api?username=RAFCERAY&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFCERAY&layout=compact&theme=default&hide_border=true&langs_count=6" height="160" alt="Top languages" />
 
+</div>
+
+---
+
+<details>
+<summary>🇫🇷 <strong>Version française</strong></summary>
+
+<br>
+
+**Data Analyst · Finance durable · Machine Learning**
+
+Je transforme des données complexes en insights actionnables — avec un focus sur la **finance durable**, le **risque de crédit** et l'**IA appliquée à la banque**.
+
+**Ce que je construis :**
+
+- **Dashboards & Data Apps** — tableaux de bord interactifs Streamlit alimentés par APIs publiques et bases SQL centralisées, avec une approche data storytelling.
+- **Machine Learning Finance** — scoring crédit, prédiction de churn et classification binaire appliquées à des cas d'usage bancaires réels, avec l'interprétabilité comme exigence de premier plan (conformité réglementaire).
+- **IA & Automatisation** — NLP et Gen AI appliqués à la banque : automatisation de rapports financiers et assistants conversationnels.
+
+📫 Contact : [LinkedIn](https://www.linkedin.com/in/rafikacervera/) · [rafika.cervera@gmail.com](mailto:rafika.cervera@gmail.com)
+
+</details>
+
+<div align="center">
+<sub>Open to collaboration on data & sustainable finance projects · Ouverte aux collaborations data & finance durable</sub>
 </div>
