@@ -24,6 +24,11 @@ Turning complex data into actionable insights — with a focus on sustainable fi
 | [**Financial Chatbot**](https://github.com/RAFCERAY/chatbot-financier) | Gen AI assistant for OTC derivatives analysis — Société Générale Datathon 2024 | Python · NLP · Gen AI | [▶ App](https://rafceray-chatbot-financier-src-app.streamlit.app) |
 | [**Social Media Analytics**](https://github.com/RAFCERAY/social-media-analytics) | NLP & ML dashboard — 100K sustainable-fashion mentions across 4 platforms | Python · NLP · Streamlit | [▶ App](https://rafceray-social-media-analytics-05-dashboard.streamlit.app) |
 | [**CONEXT**](https://github.com/RAFCERAY/conext) | Multi-company internal social network — full-stack SaaS | React · FastAPI · JWT | [▶ App](https://conext-23g257frs-rafcerays-projects.vercel.app) |
+| [**AGILIA**](https://github.com/RAFCERAY/agilia) | Multi-agent AI project manager — 6 specialized agents for universal project management | React · FastAPI · Mistral AI | — |
+| [**DataGov Agent**](https://github.com/RAFCERAY/datagov-agent) | AI data governance platform (DAMA-DMBOK2) — 11 agents, GDPR audit, data lineage | LangGraph · Mistral AI · Streamlit | [▶ App](https://datagov-agent-rfe3m83wnwydwxndphuajs.streamlit.app/) |
+| [**Data Analyst Agent**](https://github.com/RAFCERAY/data-analyst-agent) | End-to-end AI analyst — natural language queries, real-time web search, CSV analysis | Mistral AI · LangGraph · Tavily | [▶ App](https://data-analyst-agent-kcfo24n42y3s3t9la2wcsp.streamlit.app/) |
+| [**Assurance Data 360**](https://github.com/RAFCERAY/assurance-data-360) | Omnichannel insurance analytics — customer journeys, churn scoring, NBA, 71K rows | Python · Scikit-learn · Streamlit | [▶ App](https://assurance-data-360-9jmtapxzar3orjozu7bf7k.streamlit.app/) |
+| [**HORIZONIA**](https://github.com/RAFCERAY/horizonia) | Safe & sovereign social network for young people — educational AI, SOS chatbot | Python · AI | — |
 
 ## What I Build
 
