@@ -23,6 +23,7 @@ Turning complex data into actionable insights — with a focus on sustainable fi
 | [**Customer Churn**](https://github.com/RAFCERAY/churn-botanic) | Churn prediction on 7.4M retail transactions — SMOTE, RFE, logistic regression | Python · Scikit-learn | [▶ App](https://rafceray-churn-botanic-app.streamlit.app) |
 | [**Financial Chatbot**](https://github.com/RAFCERAY/chatbot-financier) | Gen AI assistant for OTC derivatives analysis — Société Générale Datathon 2024 | Python · NLP · Gen AI | [▶ App](https://rafceray-chatbot-financier-src-app.streamlit.app) |
 | [**Social Media Analytics**](https://github.com/RAFCERAY/social-media-analytics) | NLP & ML dashboard — 100K sustainable-fashion mentions across 4 platforms | Python · NLP · Streamlit | [▶ App](https://rafceray-social-media-analytics-05-dashboard.streamlit.app) |
+| [**CONEXT**](https://github.com/RAFCERAY/conext) | Multi-company internal social network — full-stack SaaS | React · FastAPI · JWT | [▶ App](https://conext-23g257frs-rafcerays-projects.vercel.app) |
 
 ## What I Build
 
