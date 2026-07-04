@@ -51,15 +51,6 @@ Turning complex data into actionable insights — with a focus on sustainable fi
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RAFCERAY&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFCERAY&layout=compact&theme=default&hide_border=true&langs_count=6" height="160" alt="Top languages" />
-
-</div>
-
 ---
 
 <details>
